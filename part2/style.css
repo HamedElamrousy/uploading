@@ -1,0 +1,16 @@
+
+ul{
+    list-style: none;
+    width: 25vw;
+
+}
+div{
+    display: flex;
+
+}
+i{
+    margin-right: 2%;
+}
+li{
+    margin-top: 2%;
+}
